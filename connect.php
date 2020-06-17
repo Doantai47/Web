@@ -8,7 +8,7 @@ if (isset($_POST['username'])) {
 
 if (isset($_POST['pass'])) {
 	# code...
-	$username = $_POST['pass'];
+	$password = $_POST['pass'];
 }
 
 $sql = "SELECT * FROM tblAcount WHERE _user=".$username."' AND _pass='".$pass."'";
