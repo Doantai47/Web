@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="">
     <style>
         html,body{
-            background-image: url('https://i.imgur.com/PNZngOc.jpg');
+            background-image: url('https://zicxa.com/hinh-anh/wp-content/uploads/2019/07/T%E1%BB%95ng-h%E1%BB%A3p-h%C3%ACnh-%E1%BA%A3nh-anime-galaxy-phong-c%E1%BA%A3nh-%C4%91%E1%BA%B9p-nh%E1%BA%A5t-5.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             height: 100%;
