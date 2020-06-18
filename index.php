@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="">
     <style>
         html,body{
-            background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+            background-image: url('https://i.imgur.com/PNZngOc.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             height: 100%;
@@ -33,7 +33,7 @@
         .social_icon span{
             font-size: 60px;
             margin-left: 10px;
-            color: #FFC312;
+            color: #FFFFFF;
         }
         .social_icon span:hover{
             color: white;
